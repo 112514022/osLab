@@ -33,4 +33,4 @@ gcc file_info.c -o file_info
 ```
 
 ## OUTPUT :
-![Output for Experiment 10](https://github.com/Balakrishna-0907/osLab/blob/22256828d23087449563435bce41c335249bdb27/ex10/output.png)
+![Output for Experiment 10](https://github.com/112514022/osLab/blob/b56dd6bce61bc25d05d013c5e465f30d29bddfe5/oslab/ex10/image.png)
