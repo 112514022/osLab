@@ -40,4 +40,4 @@ gcc exp1.c -o exp1
 ```
 
 ## OUTPUT :
-![Output for Experiment 1](https://github.com/Balakrishna-0907/osLab/blob/74387e57436111278a81e61b66b0ac6f3d7f357c/ex01/output.png)
+![Output for Experiment 1](https://github.com/112514022/osLab/blob/56f3809c55d0aeae29c040e326dabbad7c0baa49/oslab/ex01/image.png)
